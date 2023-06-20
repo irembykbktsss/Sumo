@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-06-20 14:11:38.091418 by randomTrips.py v1_17_0+0000-737931d58da
+<configuration>
+    <net-file value="grid.net.xml"/>
+    <output-trip-file value="flows.xml"/>
+    <end value="1.0"/>
+    <flows value="30"/>
+    <period value="1.0"/>
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <flow id="0" begin="0" end="1" period="30" from="D0E0" to="A1A0"/>
+    <flow id="1" begin="0" end="1" period="30" from="B2B3" to="B1B0"/>
+    <flow id="2" begin="0" end="1" period="30" from="D2D3" to="D1D2"/>
+    <flow id="3" begin="0" end="1" period="30" from="E1E2" to="A2A3"/>
+    <flow id="4" begin="0" end="1" period="30" from="C0D0" to="A1A0"/>
+    <flow id="5" begin="0" end="1" period="30" from="B1B0" to="C2C3"/>
+    <flow id="6" begin="0" end="1" period="30" from="A1A0" to="B0C0"/>
+    <flow id="7" begin="0" end="1" period="30" from="D0E0" to="C3C2"/>
+    <flow id="8" begin="0" end="1" period="30" from="B1B0" to="C4C3"/>
+    <flow id="9" begin="0" end="1" period="30" from="D4C4" to="A0A1"/>
+    <flow id="10" begin="0" end="1" period="30" from="D4C4" to="D1E1"/>
+    <flow id="11" begin="0" end="1" period="30" from="B3C3" to="A4B4"/>
+    <flow id="12" begin="0" end="1" period="30" from="E3E2" to="B3B4"/>
+    <flow id="13" begin="0" end="1" period="30" from="A2B2" to="A2B2"/>
+    <flow id="14" begin="0" end="1" period="30" from="E0D0" to="C4D4"/>
+    <flow id="15" begin="0" end="1" period="30" from="D4C4" to="D2D3"/>
+    <flow id="16" begin="0" end="1" period="30" from="C3B3" to="E3E4"/>
+    <flow id="17" begin="0" end="1" period="30" from="B4C4" to="C3C4"/>
+    <flow id="18" begin="0" end="1" period="30" from="D4E4" to="D0C0"/>
+    <flow id="19" begin="0" end="1" period="30" from="E0E1" to="C4B4"/>
+    <flow id="20" begin="0" end="1" period="30" from="D2C2" to="A1A2"/>
+    <flow id="21" begin="0" end="1" period="30" from="B1B2" to="B2C2"/>
+    <flow id="22" begin="0" end="1" period="30" from="A2A3" to="B1B2"/>
+    <flow id="23" begin="0" end="1" period="30" from="A3A2" to="B2B3"/>
+    <flow id="24" begin="0" end="1" period="30" from="D0D1" to="B4B3"/>
+    <flow id="25" begin="0" end="1" period="30" from="B4B3" to="B1A1"/>
+    <flow id="26" begin="0" end="1" period="30" from="B2B1" to="E2E3"/>
+    <flow id="27" begin="0" end="1" period="30" from="D0E0" to="C4D4"/>
+    <flow id="28" begin="0" end="1" period="30" from="B0A0" to="D2D3"/>
+    <flow id="29" begin="0" end="1" period="30" from="B0A0" to="B4C4"/>
+</routes>
