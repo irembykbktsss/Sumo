@@ -1,3 +1,4 @@
+#trafik simülasyonu sonuçları üzerinde grafik oluşturma işlemi 
 import numpy as np
 from matplotlib import pyplot as plt
 def plots(vehicles):
