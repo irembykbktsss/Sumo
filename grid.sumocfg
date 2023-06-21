@@ -9,6 +9,6 @@
     <end value="100" />
   </time>
    <output>
-     <fcd-output value="grid.output1600.xml" />
+     <fcd-output value="grid.output.xml" />
    </output>
 </configuration>
